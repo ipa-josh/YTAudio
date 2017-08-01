@@ -1,16 +1,12 @@
-PlayIntent yes
-PlayIntent sure
+PlayIntent Ja
+PlayIntent Abspielen
 
-AMAZON.StopIntent cancel
-AMAZON.StopIntent stop
+AMAZON.StopIntent Abbruch
+AMAZON.StopIntent Stopp
 
-AMAZON.HelpIntent help
+AMAZON.HelpIntent Hilfe
 
-SearchIntent to {search for|term}
+SearchIntent nach {Video|term}
 
-SearchIntent search for {eminem|term}
-SearchIntent search for {miley cyrus|term}
-SearchIntent search for {hello by adele|term}
-
-SelectionIntent select {one|selection}
-SelectionIntent play {one|selection}
+SelectionIntent wähle {eine|selection}
+SelectionIntent spiele {eine|selection}
